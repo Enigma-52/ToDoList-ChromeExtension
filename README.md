@@ -10,7 +10,11 @@ Turn your new tab page into a dynamic and fun space with our "Fun To-Do List New
 - 🚀 Add tasks with an exciting click-and-add feature.
 - ✨ Stay organized and motivated every time you open a new tab.
 
-## Installation
+![wallpaper](https://github.com/Enigma-52/ToDoList-ChromeExtension/assets/95529619/5b463a25-63e7-4094-8c41-2c35cd74d823)
+
+
+## Installation!
+
 
 1. Download the ZIP file containing the Chrome extension from our [GitHub repository](#link-to-github-repo).
 
